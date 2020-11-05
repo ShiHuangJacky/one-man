@@ -21,8 +21,24 @@
 
 # print(delete_starting_evens([4, 8, 10]))
 
-names_and_heights = [["jenny", 67], ["alexus", 70]]
+# def odd_indices(lst):
+#     newlst = []
+#     for index in range(len(lst)):
+#         if index % 2 != 0:
+#             newlst.append(lst[index])
+#     return newlst
 
-for student in names_and_heights:
-    for attribute in student:
-        print(attribute)
+# print(odd_indices([4, 3, 7, 10, 11, -2]))
+
+
+
+def exponents(lst1, lst2):
+    newlst = []
+    
+
+# names_and_heights = [["jenny", 67], ["alexus", 70]]
+
+# for student in names_and_heights:
+#     for attribute in student:
+#         print(attribute)
+

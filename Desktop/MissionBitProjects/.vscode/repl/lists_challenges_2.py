@@ -30,3 +30,4 @@ def combine_sort(lst1, lst2):
     lst3.sort()
     return lst3
 print(combine_sort([2, 10, 2, 5], [-10, 2, 5, 10]))
+
